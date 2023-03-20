@@ -14,6 +14,7 @@ export interface Movie {
   name: string;
   original_country: string;
   original_name: string;
+  original_language: string;
   overview: string;
   popularity: number;
   poster_path: string;
